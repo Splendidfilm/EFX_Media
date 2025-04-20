@@ -1,0 +1,6 @@
+MARQUEE
+Behavours
+scroll
+slide
+alternate
+Scroll delay
