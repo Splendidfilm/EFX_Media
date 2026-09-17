@@ -1,0 +1,8 @@
+{
+  "name": "EFX Media",
+  "description": "Creative copywriting and design portfolio showcase for EFX Media",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
